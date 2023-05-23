@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[39,)"
+license = "LGPLv3"
+
+[[mods]]
+modId = "minhud"
+version = "${version}"
+displayName = "MiniHUD"
+description = '''
+Configurable \"mini-F3\" info lines, and various overlay renderers
+'''
+authors="masa"
